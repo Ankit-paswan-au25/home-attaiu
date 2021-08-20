@@ -1,0 +1,12 @@
+mati=[]
+for i in range(3):
+    a=[]
+    for j in range(2):
+        a.append(i)
+    mati.append(a)
+    print(a)
+print("")
+    
+#mat=Matrx(mati)
+https://Ankit-paswan-au25@github.com/attainu/Ankit-paswan-au25.git
+https://Ankit-paswan-au25@github.com/Ankit-paswan-au25/home-attaiu.git
